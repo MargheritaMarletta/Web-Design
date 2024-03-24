@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    color: #5a3f2b;
+    font-size: 32px;
+}
+.beige {
+    background-color: #f5f5dc;
+}
+.logo {
+    height: 35px;
+}
+p {
+    justify-content: center;
+    line-height: 1.5;
+    font-size: 16px;
+}
