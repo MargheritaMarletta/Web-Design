@@ -1,0 +1,15 @@
+@media (max-width: 600px) {
+    header {
+        color: green;
+    }
+}
+
+img {
+    width: 100%;
+}
+
+@media (max-width: 800px) {
+    img {
+        width: 49%;
+    }
+}
